@@ -15,6 +15,6 @@ Greetings from Zhidian Lin!
 - 🍀 A lifelong learner, highly self-motivated, open-minded, and effective communicator.
 - 🎓 Postgraduate at **Monash University**, with a Master of IT.
 - 👩‍💻 Data analyst & product manager at Research Center - International R&D Center, **SenseTime**.
-- 📝 2 Publishcations in **[ENASE 2022](https://www.insticc.org/node/TechnicalProgram/enase/2022/personDetails/c7e1ad12-ab70-4059-8b7b-a77e3ffdbf07)**.
+- 📝 2 Publishcations at **[ENASE 2022](https://www.insticc.org/node/TechnicalProgram/enase/2022/personDetails/c7e1ad12-ab70-4059-8b7b-a77e3ffdbf07)**.
 - 🤣 Fun fact: My Chinese name, '钿', is rare compared to common names and has various meanings and pronunciations. Even Chinese speakers sometimes mistake it for '钢', '细' or simply ask "What's that"...
 - 📩 Download my CV: [Academic CV](https://drive.google.com/uc?export=download&id=18thI7C8UuOdkWGB12mmN-rmOD98zdu0a) / [Modern CV](https://drive.google.com/uc?export=download&id=12OFgfnYlHiPQ5EheQElPUEOO34sPfFcp) or [View online](https://online.fliphtml5.com/fuibe/tzbp/#p=1) 
