@@ -2,7 +2,7 @@
 feature_image: /assets/img/meSmall.jpg
 excerpt: "Zhidian is a lifelong learner, highly self-motivated, open-minded, and effective communicator. With a passion for research and notable academic achievements, she would be a valuable addition to your team."
 ---
-## 👋 Hi there
+
 Greetings from Zhidian Lin!
 
 {% include button.html text="Linkedin" icon="linkedin" link="https://linkedin.com/in/zhidianlin" color="#0366d6" %} {% include button.html text="Github" icon="github" link="https://github.com/zhidianlin"  %} {% include button.html text="Buy me a coffee ☕️" link="https://www.buymeacoffee.com/creado9" color="#f68140" %} 
