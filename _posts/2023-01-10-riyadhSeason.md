@@ -22,19 +22,19 @@ In 2023, we again with Sela, a leading events management company in Saudi Arabia
 Leveraging AI+AR technology, SenseTime’s comprehensive visual platform can transform isolated data into predictive models. The upgraded 3D digital park management model elevates park management and people flow management of Riyadh Season to a new level. The business insight analysis, driven by big data, helps operators manage the area more efficiently and intelligently by optimizing the venue layout while reducing management costs.
 
 ### SenseTime’s 3D comprehensive dashboard
-{% include figure.html image="./assets/img/riyadhSeason/riyadhSeason-dashboard" caption="Image with caption" width="300" height="800" %}
+![riyadhSeason-dashboard](/assets/img/riyadhSeason/riyadhSeason-dashboard.png)
 
 
 In addition to providing stable and reliable navigation, the newly launched “AR+ map” adds entertainment features such as AR photography, business information interaction, and treasure hunting.  These new AR navigation features deliver visitors a wider array of virtual entertainment elements and interactive experiences.
 ### The newly launched “AR+ map” adds a series of entertainment features
-{% include figure.html image="./assets/img/riyadhSeason/riyadhSeason-AR-Guide" caption="Image with caption" width="300" height="800" %}
+![riyadhSeason-AR-Guide](/assets/img/riyadhSeason/riyadhSeason-AR-Guide.png)
 
 ### TVisitors enjoyed interactive navigation with the AR tourist guide
-{% include figure.html image="./assets/img/riyadhSeason/riyadhSeason-AR-Guide2" caption="Image with caption" width="300" height="800" %}
+![riyadhSeason-AR-Guide2](/assets/img/riyadhSeason/riyadhSeason-AR-Guide2.png)
 
 Through AI + AR technologies, visitors can enjoy vivid AR views in a convergence of the virtual and physical worlds.
 ### The AR Photobooth created an immersive and interactive experience for visitors
-{% include figure.html image="./assets/img/riyadhSeason/riyadhSeason-AR-booth" caption="Image with caption" width="300" height="800" %}
+![riyadhSeason-AR-booth](/assets/img/riyadhSeason/riyadhSeason-AR-booth.png)
 
 
 
