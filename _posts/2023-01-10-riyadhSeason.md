@@ -1,7 +1,7 @@
 ---
 title: Smart Entertainment for Riyadh Season
 categories:
-- XR
+- Mixed Reality
 - AR
 - 3D Comprehensive Dashboard
 feature_text: |
