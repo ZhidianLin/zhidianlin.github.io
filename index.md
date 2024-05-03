@@ -11,7 +11,7 @@ Greetings from Zhidian Lin!
 
 ## Key note
 
-- [**🚨 Currently looking for Ph.D. opportunities with the HCI domain, contact me if you are interested!**](https://linkedin.com/in/zhidianlin)
+- [**🚨 Currently looking for Ph.D. opportunities, interested in the HCI field, feel free to contact me!**](https://linkedin.com/in/zhidianlin)
 - 🍀 A lifelong learner, highly self-motivated, open-minded, and effective communicator.
 - 🎓 Graduated with **first-class honors** in Information Technology at **Monash University**, holding a Master's degree. 
 - 👩‍💻 Almost 2 years experience in Research Center - International R&D Center, **[SenseTime](https://www.sensetime.com/en)**, a leading computer vision company in Hong Kong, as a data analyst & product manager.
