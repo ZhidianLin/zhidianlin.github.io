@@ -1,20 +1,16 @@
 ---
 title: Publication experience
-title: Smart Entertainment for Riyadh Season
 categories:
 - HCI
 - eHealth
-- Mixed Reality
-- Augmented Reality
-- 3D Comprehensive Dashboard
+- ENASE
 feature_text: |
-  My first publication experience
-  The Project Involved in SenseTime
+  My first publication on ENASE
 feature_image: "https://picsum.photos/2560/600?image=218"
 ---
 
-I was so happy to publish my master's thesis paper on ENASE 2022 with my supervisors Hourieh Khalajzadeh, Humphrey O. Obie, Jennifer Mcintosh and my fellow Kwangsu Choi.
-This is one of the most interesting projects I joined in SenseTime that advances Smart Entertainment Solution For Riyadh Season, Brings A Safe, Immersive, and Enjoyable Guest Experience.
+I was so happy to publish my master's thesis paper on ENASE 2022 with my supervisors Hourieh Khalajzadeh, Humphrey O. Obie, Jennifer Mcintosh, and my fellow Kwangsu Choi.
+
 
 <!-- more -->
 
