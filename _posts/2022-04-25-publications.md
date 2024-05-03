@@ -1,11 +1,11 @@
 ---
-title: Publication experience
+title: First Publication on ENASE
 categories:
 - HCI
 - eHealth
 - ENASE
 feature_text: |
-  My first publication on ENASE
+  My first publication experience
 feature_image: "https://picsum.photos/2560/600?image=218"
 ---
 
