@@ -13,7 +13,7 @@ Greetings from Zhidian Lin!
 
 - [**🚨 Currently looking for Ph.D. opportunities, interested in the HCI field, feel free to contact me!**](https://linkedin.com/in/zhidianlin)
 - 🍀 A lifelong learner, highly self-motivated, open-minded, and effective communicator.
-- 🎓 Graduated with **first-class honors** in Information Technology at **Monash University**, holding a Master's degree. 
+- 🎓 Holding a Master's degree in Information Technology (awarded with first honor) at Monash University. 
 - 👩‍💻 Almost 2 years experience in Research Center - International R&D Center, **[SenseTime](https://www.sensetime.com/en)**, a leading computer vision company in Hong Kong, as a data analyst & product manager.
 - 📝 2 Publishcations at **[ENASE 2022](https://www.insticc.org/node/TechnicalProgram/enase/2022/personDetails/c7e1ad12-ab70-4059-8b7b-a77e3ffdbf07)**.
 - 🤣 Fun fact: My Chinese name, '钿', is rare compared to common names and has various meanings and pronunciations. Even Chinese speakers sometimes mistake it for '钢', '细' or simply ask "What's that"...
