@@ -25,14 +25,15 @@ Leveraging AI+AR technology, SenseTime’s comprehensive visual platform can tra
 ![riyadhSeason-dashboard](/assets/img/riyadhSeason/riyadhSeason-dashboard.png)
 
 
-In addition to providing stable and reliable navigation, the newly launched “AR+ map” adds entertainment features such as AR photography, business information interaction, and treasure hunting.  These new AR navigation features deliver visitors a wider array of virtual entertainment elements and interactive experiences.
+In addition to providing stable and reliable navigation, the newly launched “AR+ map” adds entertainment features such as AR photography, business information interaction, and treasure hunting.  These new AR navigation features deliver visitors a wider array of virtual entertainment elements and interactive experiences. Through AI + AR technologies, visitors can enjoy vivid AR views in a convergence of the virtual and physical worlds.
+
 ### The newly launched “AR+ map” adds a series of entertainment features
 ![riyadhSeason-AR-Guide](/assets/img/riyadhSeason/riyadhSeason-AR-Guide.png)
 
-### TVisitors enjoyed interactive navigation with the AR tourist guide
+### The Visitors enjoyed interactive navigation with the AR tourist guide
 ![riyadhSeason-AR-Guide2](/assets/img/riyadhSeason/riyadhSeason-AR-Guide2.png)
 
-Through AI + AR technologies, visitors can enjoy vivid AR views in a convergence of the virtual and physical worlds.
+
 ### The AR Photobooth created an immersive and interactive experience for visitors
 ![riyadhSeason-AR-booth](/assets/img/riyadhSeason/riyadhSeason-AR-booth.png)
 
