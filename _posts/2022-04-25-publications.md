@@ -17,14 +17,5 @@ Riyadh Season is the biggest cultural and entertainment program in Saudi Arabia,
 In 2023, we again with Sela, a leading events management company in Saudi Arabia, to transform the mega event Riyadh Season 2022 into a fest of mixed reality by integrating AI-powered business intelligence and smart entertainment with local attractions to create a safe, immersive and enjoyable experience for visitors.
 
 
-### A Human-centric Accessible eHealth Booking Web Portal
-{% include video.html id="BqPKj1_2gZ4?si=Fjmq2fZGCRCtHe2h" title="YouTube video player" %}
-
-<!-- more -->
-
-### Developing Accessible eHealth Portals: A Human-centred Approach
-{% include video.html id="qNO06bxXcSU?si=1BsnNW8M1foHkzLB" title="YouTube video player" %}
-
-
-
-_See my publications on [ENASE 2022]([https://www.insticc.org/node/TechnicalProgram/enase/2022/personDetails/c7e1ad12-ab70-4059-8b7b-a77e3ffdbf07])_
+### SenseTime Brings AI-Powered Smart Entertainment Experience to Riyadh Season in Saudi Arabia
+{% include video.html id="54_8P7lI-zM?si=hmyC5mrftO7KvRTm" title="YouTube video player" %}
