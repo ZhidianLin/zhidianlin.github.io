@@ -6,7 +6,7 @@ excerpt: "Zhidian is a lifelong learner, highly self-motivated, open-minded, and
 ## 👋 Hi there
 Greetings from Zhidian Lin!
 
-{% include button.html text="Linkedin" icon="linkedin" link="https://linkedin.com/in/zhidianlin" color="#0366d6" %} {% include button.html text="Github" icon="github" link="https://github.com/zhidianlin"  %} {% include button.html text="Buy me a coffee(TBD) ☕️" link="https://www.buymeacoffee.com/creado9" color="#f68140" %} 
+{% include button.html text="Linkedin" icon="linkedin" link="https://linkedin.com/in/zhidianlin" %} {% include button.html text="Github" icon="github" link="https://github.com/zhidianlin"  %} {% include button.html text="Buy me a coffee(TBD) ☕️" link="https://www.buymeacoffee.com/creado9" %} 
 
 
 ## Key note
