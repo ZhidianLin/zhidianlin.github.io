@@ -1,8 +1,8 @@
 ---
 title: Smart Entertainment for Riyadh Season
 categories:
-- Mixed Reality
-- Augmented Reality
+- MR
+- AR
 - 3D Comprehensive Dashboard
 feature_text: |
   The Project Involved in SenseTime
