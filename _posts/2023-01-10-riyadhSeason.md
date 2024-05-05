@@ -38,7 +38,7 @@ In addition to providing stable and reliable navigation, the newly launched “A
 ![riyadhSeason-AR-booth](/assets/img/riyadhSeason/riyadhSeason-AR-booth.png)
 
 
-
+Source from [SenseTime](https://www.sensetime.com/en/news-detail/51164342?categoryId=1072)
 
 
 
