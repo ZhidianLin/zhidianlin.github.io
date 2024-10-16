@@ -16,5 +16,5 @@ Greetings from Zhidian Lin!
 - 🎓 Holding a Master's degree in Information Technology (awarded with first honor) at Monash University. 
 - 👩‍💻 Almost 2 years experience in Research Center - International R&D Center, **[SenseTime](https://www.sensetime.com/en)**, a leading computer vision company in Hong Kong, as a data analyst & product manager.
 - 📝 2 Publishcations at **[ENASE 2022](https://www.insticc.org/node/TechnicalProgram/enase/2022/personDetails/c7e1ad12-ab70-4059-8b7b-a77e3ffdbf07)**.
-- 🤣 Fun fact: My Chinese name, '钿', is rare compared to common names and has various meanings and pronunciations. Even Chinese speakers sometimes mistake it for '钢', '细' or simply ask "What's that"...
+- 🤣 Fun fact: My Chinese name, '钿', is kind of uncommon compared to other typical names, and has a few different meanings and pronunciations. Even native speakers sometimes confuse it with '钢', '细' or they’ll just be like, 'How to pronounce..."
 - 📩 Download my [CV](https://drive.google.com/file/d//view)
