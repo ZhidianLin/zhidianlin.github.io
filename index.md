@@ -14,5 +14,5 @@ Greetings from Zhidian Lin!
 - 🚨 A first-year Ph.D at [RMIT University](https://www.rmit.edu.au/). My topic - **Using Physiological Cues to Improve Empathy in Mixed Reality Human-AI Interaction**.
 - 🍀 A lifelong learner, highly self-motivated, open-minded, and effective communicator.
 - 🎓 Holding a Master's degree in Information Technology (awarded with first honor) at Monash University. 
-- 👩‍💻 Two years of experience in Research Center - International R&D Center, **[SenseTime](https://www.sensetime.com/en)**, a leading computer vision company in Hong Kong, as a product manager & data analyst.
+- 👩‍💻 Two years of experience in Research Center - International Research & Development Center, **[SenseTime](https://www.sensetime.com/en)**, a leading computer vision company in Hong Kong, as a product manager & data analyst.
 - 📩 Download my [CV](https://drive.google.com/file/d//view)
