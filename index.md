@@ -11,7 +11,7 @@ Greetings from Zhidian Lin!
 
 ## Key note
 
-- **🚨 A first-year Ph.D at **[RMIT University](https://www.rmit.edu.au/), interested in HCI and XR, feel free to contact me!
+- 🚨 A first-year Ph.D at [RMIT University](https://www.rmit.edu.au/). My topic - **Using Physiological Cues to Improve Empathy in Mixed Reality Human-AI Interaction**.
 - 🍀 A lifelong learner, highly self-motivated, open-minded, and effective communicator.
 - 🎓 Holding a Master's degree in Information Technology (awarded with first honor) at Monash University. 
 - 👩‍💻 Almost 2 years experience in Research Center - International R&D Center, **[SenseTime](https://www.sensetime.com/en)**, a leading computer vision company in Hong Kong, as a data analyst & product manager.
